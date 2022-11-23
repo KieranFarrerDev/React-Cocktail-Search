@@ -1,5 +1,5 @@
 # React-Cocktail-Search
-Fetching data from an API to return instructions a cocktail that the user requests.
+Fetching data from an API that returns instructions to make a cocktail that the user requests.
 
 Further development goals:
 - Return a list of ingredients
